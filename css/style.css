@@ -3,8 +3,6 @@ body {
     background-color: #000000;
     color: #FFFFFF;
     margin-top: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
     margin-bottom: 0px;
 }
 
@@ -59,7 +57,6 @@ div {
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0 0;
-
     color: #C4C4C4;
 }
 
